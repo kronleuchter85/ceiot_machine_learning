@@ -8,3 +8,4 @@
 * Tipos de Datos. Análisis de Datos.
 * Tipos de aprendizaje. Supervisado y No Supervisado.
 * Clasificación de Algoritmos
+* Python y librerias asociadas

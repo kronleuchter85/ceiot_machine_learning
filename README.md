@@ -40,6 +40,7 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 ### [Clase 1](clase1/README.md) 
 * Introducción a la Materia
 * Introducción a Machine Learning
+* Python
 
 ## Bibliografia
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
