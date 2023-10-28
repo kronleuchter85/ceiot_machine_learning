@@ -10,7 +10,7 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 ``` 
     clase#
         teoria
-        ejercicios
+        enunciado_tp
         jupyter_notebooks
         README.md
 ```
