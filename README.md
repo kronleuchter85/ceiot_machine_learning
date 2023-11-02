@@ -52,9 +52,7 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 * Variables dummy
 * Construcción de modelos
 
-# Clase 3
-
-## [Teoría](clase3/README.md) 
+### [Clase 3](clase3/README.md) 
 
 * Conceptos de clasificación
 * Regresión logistica simple y múltiple
