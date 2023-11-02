@@ -31,6 +31,7 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
     * IPython
 * Herramientas
     * GitHub para repositorios
+    * Google Colab
 * IDE Recomendados 
     * Visual Studio Code
     * PyCharm Community Edition    
@@ -61,7 +62,6 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 * Métodos de evaluación de clasificación
 * Clasificador KNN
 * Curva ROC
-
 
 ## Bibliografia
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
