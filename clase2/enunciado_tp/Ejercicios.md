@@ -18,4 +18,4 @@ Cree un notebook y realice los siguientes puntos (en el mismo notebook desarroll
 
 **Formulario de entrega**: [TP1](https://forms.gle/AtvewisLLD8SZvoj9)
 
-**Fecha de entrega**: 12/11/2023 (hasta las 23:59)
+**Fecha de entrega**: 26/11/2023 (hasta las 23:59)
