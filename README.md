@@ -61,6 +61,24 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 * Clasificador KNN
 * Curva ROC
 
+### [Clase 4](clase4/README.md)
+
+* Conjunto de validación
+* Validación cruzada
+* Arboles de decisión
+    * Arboles de regresión
+    * Arboles de clasificación
+* Bagging, arboles aleatorios y Boosting
+
+### [Clase 5](clase5/README.md)
+
+* Método de ajuste de hiperparametros
+* Support Vector Machines
+    * Maximal Margin Classifier
+    * Clasificador de vector de soportes
+    * Máquina de vector de soportes como clasificador
+    * Máquina de vector de soportes como regresión
+
 ## Bibliografia
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
 - An Introduction to Statistical Learning - Gareth James (Ed. Springer)
