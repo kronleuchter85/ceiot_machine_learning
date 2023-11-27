@@ -23,3 +23,8 @@ Cree un notebook y realice los siguientes puntos (en el mismo notebook desarroll
 **Formulario de entrega**: [TP2](https://forms.gle/Pkosid46vb8sG6yz7)
 
 **Fecha de entrega**: 03/12/2023 (hasta las 23:59)
+
+----
+**Formulario de entrega de correcciones**: [Correcciones](https://forms.gle/3bXegAQawU5EeSFx8)
+
+**Fecha de entrega máxima**: 15/12/2023 (hasta las 23:59)

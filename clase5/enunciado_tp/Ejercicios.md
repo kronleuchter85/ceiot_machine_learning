@@ -13,3 +13,8 @@ Finalmente para este TP, compare los resultados de todos los modelos que se usar
 **Formulario de entrega**: [TP3](https://forms.gle/4XNV5KMfz6QeCSLR6)
 
 **Fecha de entrega**: 03/12/2023 (hasta las 23:59)
+
+----
+**Formulario de entrega de correcciones**: [Correcciones](https://forms.gle/3bXegAQawU5EeSFx8)
+
+**Fecha de entrega máxima**: 15/12/2023 (hasta las 23:59)
