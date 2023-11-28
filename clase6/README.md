@@ -6,4 +6,4 @@
 * Perceptrones y neuronas sigmoideas
 * Redes Feed-Foward
 * Breve introducción de entrenamiento
-* Pytorch
+* TensorFlow
