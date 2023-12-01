@@ -88,6 +88,13 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 * Breve introducción de entrenamiento
 * TensorFlow
 
+### [Clase 7](clase7/README.md)
+* Aprendizaje no supervisado
+* Métodos de clustering
+* K-Means
+* Suma de Cuadrados Intracluster
+* Hierarchical Clustering
+
 
 ## Bibliografia
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
