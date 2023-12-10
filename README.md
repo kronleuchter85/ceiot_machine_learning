@@ -79,6 +79,23 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
     * Máquina de vector de soportes como clasificador
     * Máquina de vector de soportes como regresión
 
+### [Clase 6](clase6/README.md)
+
+* Redes Neuronales
+* Breve historia
+* Perceptrones y neuronas sigmoideas
+* Redes Feed-Foward
+* Breve introducción de entrenamiento
+* TensorFlow
+
+### [Clase 7](clase7/README.md)
+* Aprendizaje no supervisado
+* Métodos de clustering
+* K-Means
+* Suma de Cuadrados Intracluster
+* Hierarchical Clustering
+
+
 ## Bibliografia
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
 - An Introduction to Statistical Learning - Gareth James (Ed. Springer)
